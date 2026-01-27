@@ -1,7 +1,5 @@
 CareVision Analytics Dashboard (CareTrack)
 
-🔗 Live Demo: https://carevision-insights-16.vercel.app/analytics
-
 CareVision Analytics Dashboard (CareTrack) is a healthcare analytics and forecasting application built using synthetic healthcare data from Synthea. The project enables healthcare administrators and clinical staff to explore patient demographics, monitor chronic disease trends, analyze medication demand, and forecast future patient influx using time-series models.
 
 ⸻
